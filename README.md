@@ -1,1 +1,1 @@
-# COMP90086-Fine-grained-localisation
+# Fine-grained-localisation
